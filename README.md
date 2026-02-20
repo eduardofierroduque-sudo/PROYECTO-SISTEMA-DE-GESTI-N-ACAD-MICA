@@ -1,10 +1,10 @@
 # Sistema de Gestión Académica en Python
-te proyecto es una solución integral al reto de programación dividido en cuatro fases (Días 14 a 17). Consiste en un sistema de consola que permite la administración de estudiantes, procesamiento de calificaciones y generación de reportes utilizando conceptos fundamentales y avanzados de Python.
+Este proyecto es una solución integral al reto de programación dividido en cuatro fases (Días 14 al 17). Consiste en un sistema de consola que permite la administración de estudiantes, procesamiento de calificaciones y generación de reportes utilizando conceptos fundamentales y avanzados de Python.
 Planteamiento del Problema:
 El objetivo principal era diseñar un software modular que demostrara el dominio de las siguientes áreas:
-1.  Funciones Definidas por el Usuario: Creación de lógica reutilizable, manejo de parámetros flexibles (`*args`, `**kwargs`) y mutabilidad de estructuras de datos.
+1.  Funciones Definidas por el Usuario: Creación de lógica reutilizable, manejo de parámetros flexibles (args, kwargs) y mutabilidad de estructuras de datos.
 2.  Funciones Predefinidas: Integración de herramientas nativas de Python para operaciones matemáticas, manipulación de cadenas y análisis de colecciones.
-3.  Control de Flujo: Implementación de validaciones robustas mediante bucles `while` y navegación de datos con `for` y `enumerate`.
+3.  Control de Flujo: Implementación de validaciones robustas mediante bucles WHILE y navegación de datos con FOR y ENUMERATE.
 4.  Integración de Sistemas: Consolidación de todos los módulos en una interfaz de usuario por consola funcional y organizada.
 <img width="2064" height="405" alt="image" src="https://github.com/user-attachments/assets/16df9e57-ddcd-43ce-b366-5dd4df1764ea" />
 <img width="2035" height="466" alt="image" src="https://github.com/user-attachments/assets/5f819519-8221-4105-baf7-c99c58980182" />
